@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Manthan Patel
 
-🚀 **Python Developer | DevOps Professional | Solution Architect**
+🚀 **Python Backend Engineer | AI & Automation Builder | DevOps | Scalable Systems Architect**
 📍 Ahmedabad, Gujarat, India
 💼 3+ Years of Experience building scalable backend systems, automation tools, and high-performance distributed solutions.
 
@@ -24,7 +24,7 @@ I enjoy solving **complex engineering problems**, optimizing systems for **speed
 * **Automation and developer productivity tools**
 * Open-source **Python infrastructure projects**
 
-### 🤝 I’m looking for help with
+### 🤝 I’m always open to collaboration on
 
 * Advanced **distributed system design**
 * Scaling **AI-driven backend services**
