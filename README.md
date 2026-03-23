@@ -1,5 +1,6 @@
-# 💫 About Me:
-## 👋 Hi, I'm Manthan Patel
+# 👋 Hi, I'm Manthan Patel
+
+## 💫 About Me:
 
 🚀 **Python Backend Engineer | AI & Automation Builder | DevOps | Scalable Systems Architect**
 📍 Ahmedabad, Gujarat, India
